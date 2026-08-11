@@ -1,8 +1,8 @@
-# 🔬 Skin Lesion Educational Assistant — Azure AI Foundry Agentic System
+# Skin Lesion Educational Assistant — Azure AI Foundry Agentic System
 
 A multi-modal, tool-using AI agent built on Azure AI Foundry that gives educational, plain-language context about skin lesion photos, combining a custom-trained computer vision model with an LLM-based reasoning layer. Built as a portfolio project to explore agentic AI orchestration on native Azure tooling, as a companion piece to Azure ML-focused work.
 
-**⚠️ This is an educational demo, not a medical device.** It never provides a diagnosis and always directs the user to consult a dermatologist. See [Responsible use](#responsible-use) below.
+**This is an educational demo, not a medical device.** It never provides a diagnosis and always directs the user to consult a dermatologist. See [Responsible use](#responsible-use) below.
 
 ## Architecture
 
