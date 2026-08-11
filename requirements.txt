@@ -1,0 +1,6 @@
+streamlit
+azure-ai-agents
+azure-identity
+azure-cognitiveservices-vision-customvision
+python-dotenv
+Pillow

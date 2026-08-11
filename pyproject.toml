@@ -1,0 +1,14 @@
+[project]
+name = "azure-vision"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "azure-ai-agents>=1.1.0",
+    "azure-cognitiveservices-vision-customvision>=3.1.1",
+    "azure-identity>=1.25.3",
+    "pillow>=12.3.0",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.61.1",
+]
